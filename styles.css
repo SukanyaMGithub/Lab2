@@ -76,11 +76,12 @@
 /* Grid Part 2 */
 
 #grid-section2 .gridboxblue {
-
+	grid-area: 1 / 2 / 4 / 4;
+	order: 1;
 }
 
 #grid-section2 .gridboxred {
-
+	grid-area: 2 / 1 / 3 / 3;
 }
 
 /* end Grid Part 2 */
