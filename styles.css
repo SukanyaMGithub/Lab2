@@ -130,6 +130,7 @@
 	color: #000;
 	padding: 20px;
 	text-decoration: none;
+	transition: background-color 3s,color 3s; /* Add transition for background-color and color with 3s duration */
 
 
 }
@@ -137,6 +138,7 @@
 #transition-section .box a:hover {
 	background-color: #cc0000;
 	color: #fff;
+	transition: background-color 0.5s, color 0.5s; /* Add transition for background-color and color with 0.5s duration */
 
 
 }
